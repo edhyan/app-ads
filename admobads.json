@@ -2,9 +2,9 @@
   "pc": "com.video_downloader_tube_all_matee.wa_status_saver",
   "admob": [
     {
-      "banner": "ca-app-pub-6343574703556846/7502734939",
-      "inter": "ca-app-pub-6343574703556846/8846339565",
-      "interval_inter": 2
+      "banner": "",
+      "inter": "",
+      "interval_inter": 3
     }
   ]
 }
