@@ -1,0 +1,17 @@
+{
+  "pc": "com.objekwisatasurabaya.app",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-0",
+      "native": "ca-app-pub-0",
+      "inter": "ca-app-pub-0"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "",
+      "native": ""
+    }
+  ]
+}
